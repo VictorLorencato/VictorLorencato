@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorLorencato
 - 👀 I’m interested in developing my skills to achieve my dream of being a professional developer
-- 🌱 I’m currently learning the basics of the knowledge necessary to start to code and collaborate with the community
+- 🌱 I’m currently learning the basics of HTML, CSS, SQL, Javascript and the concepts of databanks and data structure
 - 💞️ I’m looking to collaborate on projects from other students with the same goal of self development and insertion in the profession
 - 📫 How to reach me:
 - My email: lorencato6@hotmail.com
