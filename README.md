@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorLorencato
 - 👀 I’m interested in developing my skills to achieve my dream of being a professional developer
-- 🌱 I’m currently learning NodeJS, React and asynchronous Javascript programming
+- 🌱 I’m currently creating some projects to show what I've learned so far
 - 💞️ I’m looking to collaborate on projects from other students with the same goal of self development and insertion in the profession
 - 📫 How to reach me:
 - My email: lorencato6@hotmail.com
